@@ -124,9 +124,8 @@ My_chatbot/
 B.Tech in Computer Science and Engineering (AI & ML)  
 
 📌 View My Profiles:  
-- 💼 [LinkedIn](https://linkedin.com/in/manibhushankumar)  
-- 🌐 [Portfolio or Website](#) *(optional - replace link if available)*  
-- 📧 [Email](mailto:manibhushan@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/manibhushan-kumar-9725242b9)   
+- 📧 [Email](mailto:manibhushankumar0127@gmail.com)
 
 ---
 
