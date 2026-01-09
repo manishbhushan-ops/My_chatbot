@@ -1,4 +1,4 @@
-# 🤖 Manish AI – AI Chatbot Built with Streamlit
+# 🤖 Sage AI – AI Chatbot Built with Streamlit
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%F0%9F%94%A5-red.svg)](https://streamlit.io/)
