@@ -4,7 +4,8 @@ import streamlit as st
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 gptmodel = "gpt-4.1-mini"
 response=""
-st.title("Manish AI")
+st.title("Sage AI")
+st.subheading("Welcome to Sage Ai.")
 st.divider()
 
 
@@ -36,6 +37,7 @@ if prompt:
             except Exception as e:
                 st.error(f"An error occurred: {str(e)}")
     
+
 
 
 
